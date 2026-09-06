@@ -25,7 +25,6 @@
 
 - Contributor to **mem0** — added a `GoogleGenAIEmbedding` class, reviewed a native Mistral LLM provider PR.
 - Merged PR in **ragflow** , **repowise**.
-- Preparing GSoC 2027 contributions targeting **Kubeflow** 
 
 🔹 **building from zero**
 
