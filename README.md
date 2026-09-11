@@ -11,7 +11,7 @@
 
 - **Languages & Frameworks** — Python (FastAPI) · C++ · Go · JavaScript · TypeScript (Node.js)
 - **Databases & Caching** — PostgreSQL · MySQL · MongoDB · Redis · ChromaDB · Qdrant (Vector DBs)
-- **Infrastructure & DevOps** — Docker · AWS (EC2/S3) · Git · CI/CD · MCP (Model Context Protocol) · Streamlit Cloud
+- **Infrastructure & DevOps** — Docker · AWS (EC2/S3) · Git · CI/CD · MCP (Model Context Protocol)
 - **Concepts** — RAG · Hybrid Search · Low-Level Design (LLD) · System Design · Agentic Workflows · Neural Networks · Supervised/Unsupervised Learning · Fine-Tuning · Feature Engineering · Evaluation Metrics
 - **AI/ML Frameworks** — PyTorch · TensorFlow · LangChain (AI Agents) · LangGraph · Scikit-learn · Deep Learning · NLP
 
