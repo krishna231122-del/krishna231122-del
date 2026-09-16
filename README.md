@@ -7,7 +7,7 @@
 
 ---
 
-🔹 **my go to stack**
+🔹 **my goto stack**
 
 - **Languages & Frameworks** — Python (FastAPI) · C++ · Go · JavaScript · TypeScript (Node.js)
 - **Databases & Caching** — PostgreSQL · MySQL · MongoDB · Redis · ChromaDB · Qdrant (Vector DBs)
