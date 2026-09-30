@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi%2C%20I%27m%20Krishna%20Soni%20👋;AI%2FML%20%26%20Backend%20Engineer;Building%20systems%20from%20scratch" alt="Typing SVG" />
+  <h1>👋 Hi, I'm Krishna Soni</h1>
+  <h3>AI/ML & Backend Engineer | Building systems from scratch</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna231122-del&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <em>Architecting intelligent systems, diving into agentic workflows, and building scalable backends.</em>
-</div>
+---
 
 <br />
 
