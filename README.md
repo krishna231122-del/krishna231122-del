@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Krishna Soni</h1>
   <h3>AI/ML & Backend Engineer | Building systems from scratch</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna231122-del&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
 </div>
 
 ---
