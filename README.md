@@ -58,8 +58,9 @@
     *   🚀 [Added Elixir, F# and ObjC to health complexity maps](https://github.com/repowise-dev/repowise/pull/2152)
     *   📈 [Enabled C language health coverage](https://github.com/repowise-dev/repowise/pull/2113)
 *   **[kubeflow/mcp-server](https://github.com/kubeflow/mcp-server)**
-    *   🐛 [Fixed core key preservation during redaction](https://github.com/kubeflow/mcp-server/pull/268)
-    *   🐛 [Handled non-ASCII tokens in API key verification](https://github.com/kubeflow/mcp-server/pull/230)
+    *   1.[implement missing unit tests for auth and security](https://github.com/kubeflow/mcp-server/pull/240)
+    *   2.[Fixed core key preservation during redaction](https://github.com/kubeflow/mcp-server/pull/268)
+    *   3.[Handled non-ASCII tokens in API key verification](https://github.com/kubeflow/mcp-server/pull/230)
 *   **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)**
     *   ✨ [Added `--version` CLI flag](https://github.com/infiniflow/ragflow/pull/18534)
 </details>
