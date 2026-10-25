@@ -61,11 +61,10 @@
 
 ---
 
-### 🧠 Building From Zero
+### Building From Zero
 
-> *I build everything from scratch — no shortcuts, no boilerplate templates I don't understand. Every project starts as a blank file and gets shaped by real problems, real edge cases, and real eval numbers, not by copying what already exists.*
-> 
-> *But the point was never just to build for myself — it's to build things people actually use and feel better for having used. If a project doesn't make someone's work easier or their day a little less painful, I don't consider it done.*
-
+> *I believe the best way to understand something is to build it from the ground up. No blind copying, no shortcuts—just curiosity, experimentation, and learning by doing.*
+>
+> *But building is only half the story. I want to create things that solve real problems, make people's lives easier, and leave a lasting impact. For me, a project isn't finished when the code works—it's finished when it makes a difference.*
 ---
 
