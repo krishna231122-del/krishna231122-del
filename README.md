@@ -75,9 +75,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna231122-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna231122-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
