@@ -64,7 +64,6 @@
 ### Building From Zero
 
 > *I believe the best way to understand something is to build it from the ground up. No blind copying, no shortcuts—just curiosity, experimentation, and learning by doing.*
->
 > *But building is only half the story. I want to create things that solve real problems, make people's lives easier, and leave a lasting impact. For me, a project isn't finished when the code works—it's finished when it makes a difference.*
 ---
 
