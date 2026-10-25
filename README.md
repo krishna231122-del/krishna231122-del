@@ -4,6 +4,11 @@
 
 </div>
 
+---
+
+              Just a curious mind chasing big dreams, building cool things, and figuring it all out along the way. 🌙⚡
+
+----
 
 ### ⚡ My Go-To Stack
 
