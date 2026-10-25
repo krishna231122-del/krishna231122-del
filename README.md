@@ -4,17 +4,6 @@
 
 </div>
 
----
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/krishna231122-del">
-    <img src="https://img.shields.io/github/followers/krishna231122-del?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</div>
-
----
 
 ### ⚡ My Go-To Stack
 
